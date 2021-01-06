@@ -5,7 +5,10 @@ h1{
     font-size: 50px;
 }
 h2{
-    font-size: 20px;
+    font-size: 40px;
+}
+p{
+    color: dimgray;
 }
 .name-highlight{
     color: crimson;
@@ -18,4 +21,18 @@ h2{
 }
 .half-width img{
     width: 100%;
+}
+section{
+    padding-bottom: 300;
+}
+.link-button{
+    text-decoration: none;
+    border-radius: 5px;
+    background-image:linear-gradient(45deg, crimson, coral ) ;
+    background-color:crimson;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 800;
+    color: floralwhite;
+
 }
