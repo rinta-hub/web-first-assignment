@@ -22,9 +22,6 @@ p{
 .half-width img{
     width: 100%;
 }
-section{
-    padding-bottom: 300;
-}
 .link-button{
     text-decoration: none;
     border-radius: 5px;
@@ -34,5 +31,38 @@ section{
     padding: 10px 20px;
     font-weight: 800;
     color: floralwhite;
+
+}
+.latest-project{
+    height: 700;
+    clear: both;
+}
+
+.latest-project h2{
+    text-align: center;
+
+}
+.team{
+    display: inline-block;
+    justify-content: center;
+}
+.blog{
+    border: 1px, solid, whitesmoke;
+    border-radius: 20px;
+    margin: 1%;
+    width: 30%;
+    display: inline-block;
+    overflow: hidden;
+}
+.blog img{
+    width: 100%;
+}
+#image{ background-size: contain;
+    height: 10px;
+    width: 20px;
+}
+footer p{
+text-align: center;
+height: 10px;
 
 }
