@@ -57,9 +57,13 @@ p{
 .blog img{
     width: 100%;
 }
-#image{ background-size: contain;
-    height: 10px;
-    width: 20px;
+.box{ 
+    height: 100px;
+    width: 300px;
+
+}
+.image{
+    justify-content: center;
 }
 footer p{
 text-align: center;
